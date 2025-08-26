@@ -1,0 +1,17 @@
+.border_radius{
+    -fx-background-radius:6px;
+    
+}
+
+.button_register:hover{
+    -fx-cursor:hand;
+    
+}
+
+.border_input{
+    -fx-border-width:0px 0px 1px 0px;
+}
+
+button_active:active{
+    -fx-opacity:0.50;
+}
